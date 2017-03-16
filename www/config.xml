@@ -7,7 +7,6 @@
   <preference name="android-minSdkVersion" value="14"/>
 
   <plugin name="Storage" value="org.apache.cordova.Storage" />
-  <plugin name="cordova-plugin-whitelist" source="npm"/>
   <icon src="icon.png"/>
   <platform name="android">
     <icon src="www/res/icon/android/drawable-ldpi-icon.png" density="ldpi"/>
